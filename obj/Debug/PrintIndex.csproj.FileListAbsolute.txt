@@ -1,0 +1,12 @@
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\bin\Debug\PrintFromIndex.dll.config
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\bin\Debug\PrintFromIndex.dll
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\bin\Debug\PrintFromIndex.pdb
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintIndex.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\MainWindow.baml
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintFromIndex_MarkupCompile.cache
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintFromIndex.g.resources
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintIndex.Properties.Resources.resources
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintIndex.csproj.GenerateResource.Cache
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintFromIndex.dll
+C:\Users\Ryan\Dropbox\RevitDEV\PrintFromIndex\PrintFromIndex\obj\Debug\PrintFromIndex.pdb
